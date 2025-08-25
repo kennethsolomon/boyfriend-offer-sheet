@@ -58,7 +58,7 @@ A beautifully designed, interactive web application that presents dating intenti
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/boyfriend-offer-sheet.git
+   git clone https://github.com/kennethsolomon/boyfriend-offer-sheet.git
    cd boyfriend-offer-sheet
    ```
 
@@ -275,7 +275,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Built with 💚 for honest, healthy relationships**
 
-[⭐ Star this repo](https://github.com/your-username/boyfriend-offer-sheet) if you found it helpful!
+[⭐ Star this repo](https://github.com/kennethsolomon/boyfriend-offer-sheet) if you found it helpful!
 
 *Because love deserves clarity, respect, and good design.*
 
